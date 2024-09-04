@@ -8,12 +8,9 @@ defineProps({
 </script>
 
 <template>
-  <div class="container mx-auto py-8 px-2" :class="bgColor">
-    <h2 class="text-2xl font-semibold">How You Can Help</h2>
+  <div class="container mx-auto py-8 px-4" :class="bgColor">
+    <h2 class="text-2xl font-semibold mb-2">How You Can Help</h2>
     <slot></slot>
-    <!-- <div class="mt-4">
-      <img :src="imageUrl" alt="Image" class="rounded-lg w-full">
-    </div> -->
   </div>
 </template>
 

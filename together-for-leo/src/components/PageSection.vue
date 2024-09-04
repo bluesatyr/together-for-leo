@@ -12,7 +12,7 @@ defineProps({
     <h2 class="text-2xl font-semibold">{{ title }}</h2>
     <p>{{ content }}</p>
     <div class="mt-4" v-if="imageUrl">
-      <img :src="imageUrl" alt="Image" class="rounded-lg w-full">
+      <img :src="imageUrl" alt="Image" class="rounded-lg w-full-md">
     </div>
     <slot>
     </slot>
