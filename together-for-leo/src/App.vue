@@ -121,7 +121,7 @@ const paymentOptions = [
         Our first priority is to pay the medical evacuation costs and then the Montreal hospital bills, both of which were incurred in Canadian dollars.
       </div>
       <div class="mb-2">
-        If you wish to contribute <strong>click on one of the 4 options below</strong> to transfer funds to cover Leo’s medical bills:
+        If you wish to contribute <strong>click on one of the 4 options below</strong> to transfer funds to help cover Leo’s medical bills:
       </div>
       <ul>
         <CallToActionListItem
